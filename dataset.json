@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Alameda in West Coast. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Alameda, California, US",
+  "export_job_id": "79398b02-2944-4554-9cdd-86c24ae1aa07",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 934881,
+  "location_name": "Alameda",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-alameda-california-us-sample-934881",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/934881/beamstation_934881_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 13.29,
+  "sample_records": 21,
+  "sample_sha256": "5708755c9a14277b51f745e283fc68e784788986e93f83ac1c7ccb6b41f70308",
+  "sample_size_bytes": 89901,
+  "total_records": 158,
+  "updated_at": "2026-03-31T12:39:12.711254+00:00"
+}
