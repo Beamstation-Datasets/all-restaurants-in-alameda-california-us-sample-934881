@@ -1,12 +1,12 @@
 {
-  "export_job_id": "79398b02-2944-4554-9cdd-86c24ae1aa07",
+  "export_job_id": "4c366268-6bc0-49b9-9afc-59f96942e44a",
   "id_short": 934881,
-  "published_at": "2026-04-15T08:00:45Z",
+  "published_at": "2026-04-17T07:54:45Z",
   "repo_name": "all-restaurants-in-alameda-california-us-sample-934881",
   "sample_asset_name": "beamstation_934881_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/934881/beamstation_934881_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 21,
   "sample_sha256": "5708755c9a14277b51f745e283fc68e784788986e93f83ac1c7ccb6b41f70308",
   "sample_size_bytes": 89901,
-  "total_records": 158
+  "total_records": 216
 }
