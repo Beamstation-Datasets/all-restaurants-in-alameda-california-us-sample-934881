@@ -1,6 +1,6 @@
 # All Restaurants in Alameda, California, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `934881` |
 | Location | Alameda |
 | Category | Restaurants |
-| Full dataset size | 216 records |
-| Free sample size | 21 records (9.72%) |
-| Last export | 2026-04-14T12:52:33.026426+00:00 |
+| Full dataset size | 151 records |
+| Free sample size | 15 records (9.93%) |
+| Last export | 2026-04-21T13:42:38.657592+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alameda-california-us-sample-934881/releases/download/sample-latest/beamstation_934881_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
