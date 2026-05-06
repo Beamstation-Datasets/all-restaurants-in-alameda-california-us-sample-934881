@@ -9,9 +9,9 @@
 | Dataset ID | `934881` |
 | Location | Alameda |
 | Category | Restaurants |
-| Full dataset size | 222 records |
-| Free sample size | 22 records (9.91%) |
-| Last export | 2026-04-28T14:41:54.584471+00:00 |
+| Full dataset size | 228 records |
+| Free sample size | 22 records (9.65%) |
+| Last export | 2026-05-06T05:50:12.351468+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alameda-california-us-sample-934881/releases/download/sample-latest/beamstation_934881_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
